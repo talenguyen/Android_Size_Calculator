@@ -1,0 +1,10 @@
+Main-Class: com.tale.androidsizecalculator.Converter 
+Manifest-Version: 1.0
+Created-By: Giang Nguyen.
+Name: com/tale/androidsizecalculator
+Specification-Title: Android Utility to convert for multiple screen size.
+Specification-Version: 1.0
+Specification-Vendor: Giang Nguyen.
+Implementation-Title: com.tale.androidsizecalculator
+Implementation-Version: build1
+Implementation-Vendor: Giang Nguyen.
